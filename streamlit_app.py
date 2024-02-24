@@ -4,7 +4,7 @@ import pandas as pd
 import streamlit as st
 
 """
-# Welcome to The WiDs Streamlit Tutorial!
+# Welcome to The WiDS Streamlit Tutorial!
 Here is an example of what you can do with just a few lines of code:
 """
 
